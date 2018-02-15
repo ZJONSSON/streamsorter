@@ -1,0 +1,15 @@
+{
+  "name": "streamsorter",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ziggy Jonsson (ziggy.jonsson.nyc@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "functional-red-black-tree": "^1.0.1",
+    "streamz": "^1.8.5"
+  }
+}
